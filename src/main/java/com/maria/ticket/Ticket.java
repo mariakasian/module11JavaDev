@@ -4,7 +4,7 @@ import com.maria.client.Client;
 import com.maria.planet.Planet;
 import jakarta.persistence.*;
 
-import java.security.Timestamp;
+import java.sql.Timestamp;
 import java.util.Objects;
 
 @Table(name = "ticket")

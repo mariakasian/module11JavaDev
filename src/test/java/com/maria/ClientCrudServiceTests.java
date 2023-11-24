@@ -1,4 +1,4 @@
-package maria;
+package com.maria;
 
 import com.maria.client.Client;
 import com.maria.client.ClientCrudService;

@@ -1,4 +1,4 @@
-package maria;
+package com.maria;
 
 import com.maria.planet.Planet;
 import com.maria.planet.PlanetCrudService;
